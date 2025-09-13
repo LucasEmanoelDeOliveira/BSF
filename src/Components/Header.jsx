@@ -19,7 +19,7 @@ function Header() {
         <section id="header" className="fixed top-[var(--spacing-4)] left-1/2 -translate-x-1/2 z-1000 w-full max-w-[1200px] px-8">
             <nav id="nav-container" className="flex items-center justify-between p-[var(--spacing-4)] bg-[var(--black-primary)] rounded-xl reveal">
                 <div id="nav-brand" className="flex items-center">
-                    <img src="/Images/Logo.png" alt="BSF Logo" />
+                    <img src="/BSF/Images/Logo.png" alt="BSF Logo" style={{ width: "50px", margin: "0px 15px 0px 0px" }} />
                     <span className="highlight-text text-2xl font-bold">Bot'S Factory</span>
                 </div>
                 
